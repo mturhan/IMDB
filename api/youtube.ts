@@ -1,4 +1,4 @@
-const YTAPIKEY = 'AIzaSyCFSHWVorVIU5o-b4tD3XEfRfVToLbnY50';
+const YTAPIKEY = 'AIzaSyCFSHWVorVIU5o-...';
 
 async function getVideo(term: string) {
   const response = await fetch(
