@@ -1,4 +1,4 @@
-const OMDB_KEY = '2043f349';
+const OMDB_KEY = '2043f...';
 
 export async function logMovies() {
   const url = `http://www.omdbapi.com/?apikey=${OMDB_KEY}&s=matrix`;
